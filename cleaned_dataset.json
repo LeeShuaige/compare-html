@@ -1,0 +1,12 @@
+[
+  {
+    "instruction": "Translate the following English text to French:",
+    "input": "Hello World!",
+    "output": "Bonjour le monde!?"
+  },
+  {
+    "instruction": "Summarize the article@",
+    "input": "The\\ quick brown fox jumps over the lazy dog. .The\\ quick brown fox jumps over the lazy dog.",
+    "output": "A fox jumps over a dog?"
+  }
+]
